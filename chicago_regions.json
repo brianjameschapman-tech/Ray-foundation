@@ -1,0 +1,12 @@
+{
+  "city_center": {
+    "lat": 41.8781,
+    "lon": -87.6298
+  },
+  "rings": [
+    "Urban Core",
+    "Inner Collar",
+    "Outer Collar"
+  ],
+  "notes": "Starter data for regional adaptation; replace with real metrics later."
+}
